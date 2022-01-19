@@ -12,7 +12,7 @@ const questions = [
     },
     {
         question: "Nämn tre skillnader mellan React och Angular.",
-        answer: "Vue använder sig av HTML templates och JSX medans React använder sig bara av JSX. React är ett bibliotek(library) och Vue är ett ramverk(framework), react förlitar sig på tredje parts bibliotek som är byggt av communityt medans Vue core team stödjer och bygger egna bibliotek. Vue är lättare och lära sig och passar bättre för simpla applikationer medans React kräver att du har en god förståelse för JS och passar bättre för mer komplexa applikationer.",
+        answer: "React är ett library(bibliotek) och Angular är ett Framework(ramverk). React använder sig av virtual DOM och en vägs binding medans Angular använder sig av den riktiga DOM:en och två vägs bindning. Angular skrivs i Typescript och har en brant inlärningskurva medans React skrivs i Javascript och är lättare att lära sig",
     },
 ]
 
